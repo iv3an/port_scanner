@@ -56,7 +56,7 @@ Open ports    : 2
 Time taken    : 4.21 seconds
 -------------------------------------------------------
 
-PORT      STATUS    SERVICE (guess)
+PORT      STATUS    SERVICE 
 ----------------------------------------
 22        OPEN      SSH
 80        OPEN      HTTP
