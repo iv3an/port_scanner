@@ -14,9 +14,9 @@ I built this project to practice **Python networking, sockets, TCP ports, and ba
 - Show scan duration and a final summary
 - Colored terminal output
 
-## 🛠️ Built With
+## Built With
 
-- Python
+- `python`
 - `socket`
 - `tqdm`
 - `datetime`
@@ -62,12 +62,10 @@ PORT      STATUS    SERVICE (guess)
 80        OPEN      HTTP
 ```
 
-## What I Learned
-
-This project helped me understand how Python can use **TCP sockets** to test connections to ports, how ports relate to network services, and how basic port scanning works.
 
 
-## 🔮 Future Improvements
+
+## Future Improvements
 
 - Multithreading for faster scans
 - Banner grabbing
@@ -75,5 +73,4 @@ This project helped me understand how Python can use **TCP sockets** to test con
 - Export scan results to a file
 - Command-line arguments
 
----
- Built while learning Python and networking
+
