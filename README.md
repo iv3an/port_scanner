@@ -33,7 +33,7 @@ pip install tqdm
 Run the scanner:
 
 ```bash
-python port_scanner.py
+python scan.py
 ```
 
 Then enter a target and port range:
